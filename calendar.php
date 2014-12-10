@@ -6,7 +6,6 @@ include('header.php');
 	
 	<!--main content start-->
 
-     
             <!-- page start-->
             <div class="row mt">
                 <aside class="col-lg-3 mt">
@@ -92,7 +91,6 @@ include('header.php');
     
     
     
-    
       <!-- /////////////////////////////////////////////////// -->
         <!--------------   MODAL WINDOWS TO DISPLAY MESSAGES ------>
         <!-- /////////////////////////////////////////////////// -->
@@ -156,6 +154,3 @@ include('header.php');
 				
 			});
 	</script>
-
-    
-   

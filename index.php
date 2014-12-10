@@ -1,12 +1,6 @@
 <?php
 include('header.php');
 ?>
-
-	<!--script for this page-->
-   
-   
-	
-   
 <section id="main-content">
 	<section class="wrapperIndex"> 
 	<!--main content start-->

@@ -437,4 +437,3 @@ include('header.php');
 	
 	<!--script for this page-->
 	<script src="assets/js/Wizard_Functions/Students.js"></script> 
-   

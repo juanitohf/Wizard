@@ -44,7 +44,6 @@
 	</section>
 </section>
 
-
   <!-- /////////////////////////////////////////////////// -->
         <!--------------   MODAL WINDOWS TO DISPLAY MESSAGES ------>
         <!-- /////////////////////////////////////////////////// -->
@@ -91,4 +90,3 @@
 	
 	<!--script for this page-->
     <script src="assets/js/Wizard_Functions/UpdateData.js"></script>
-
